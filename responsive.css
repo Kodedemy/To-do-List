@@ -1,0 +1,21 @@
+@media screen and (max-width: 375px) {
+    input {
+        margin-left: -10px;
+    }
+
+    button {
+        margin-left: -7px;
+        font-size: 7px;
+    }
+
+    ul li{
+        font-size: 7px;
+    }
+}
+
+@media screen and (max-width: 342px) {
+    button {
+        margin-left: -10px;
+        font-size: 7px;
+    }
+}
